@@ -1,8 +1,29 @@
-# React + Vite
+# Secure Account Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React application for securely managing user credentials with a Node.js and Express backend, utilizing MongoDB for data storage. This app allows users to add, edit, delete, and view their accounts easily.
 
-Currently, two official plugins are available:
+## Features
+- Add new accounts
+- Edit existing accounts
+- Delete accounts
+- View all accounts in a table format
+- User-friendly interface with notifications
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- React
+- Node.js
+- Express
+- MongoDB
+- Axios
+- React Toastify
+
+## Installation
+
+### Prerequisites
+- Node.js (v14 or later)
+- MongoDB (ensure it's running)
+
+### Clone the Repository
+```bash
+git clone https://github.com/yourusername/secure-account-manager.git
+cd secure-account-manager
