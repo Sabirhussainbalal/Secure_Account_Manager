@@ -1,2 +1,8 @@
-# Secure_Account_Manager
-A React application for securely managing user credentials with a Node.js and Express backend, utilizing MongoDB for data storage. This app allows users to add, edit, delete, and view their accounts easily.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
